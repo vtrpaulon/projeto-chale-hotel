@@ -115,7 +115,17 @@ ul#navegacao a:hover{
 	height: 164px;
 	float: right;
 }
-
+/*
+****Area principal***
+*/
+#area-principal{
+	background: red;
+	float: left;
+}
+#area-lateral{
+	background: blue;
+	float: right;
+}
 
 
 
